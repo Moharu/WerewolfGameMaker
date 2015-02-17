@@ -17,6 +17,7 @@
       <sprite>sprites\JoinServerButtonSprite</sprite>
       <sprite>sprites\NewServerHeaderSprite</sprite>
       <sprite>sprites\TextBox</sprite>
+      <sprite>sprites\PlayerSlotLobbySprite</sprite>
       <sprite>sprites\TextBoxSelected</sprite>
       <sprite>sprites\DownArrowSprite</sprite>
       <sprite>sprites\UpArrowSprite</sprite>
@@ -28,7 +29,6 @@
     <background>background\MainMenuBackground</background>
   </backgrounds>
   <paths name="paths"/>
-  <scripts name="scripts"/>
   <fonts name="fonts">
     <font>fonts\InputTextFont</font>
   </fonts>
@@ -50,6 +50,8 @@
       <object>objects\PlayerNumberDownArrow</object>
       <object>objects\PlayerNumberBoxHeader</object>
       <object>objects\ConfirmCreateServerButton</object>
+      <object>objects\PlayerSlotLobby</object>
+      <object>objects\NetworkHandler</object>
     </objects>
   </objects>
   <rooms name="rooms">

@@ -3,7 +3,7 @@
   <caption></caption>
   <width>1024</width>
   <height>768</height>
-  <vsnap>8</vsnap>
+  <vsnap>2</vsnap>
   <hsnap>2</hsnap>
   <isometric>0</isometric>
   <speed>30</speed>
@@ -51,11 +51,26 @@
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
+    <instance objName="PlayerSlotLobby" x="646" y="206" name="inst_691279A7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="PlayerSlotLobby" x="646" y="256" name="inst_35106F73" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="PlayerSlotLobby" x="646" y="306" name="inst_61D7FF7C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="PlayerSlotLobby" x="646" y="356" name="inst_67B60B31" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="PlayerSlotLobby" x="646" y="406" name="inst_F59A8AB4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="PlayerSlotLobby" x="646" y="456" name="inst_65487785" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="PlayerSlotLobby" x="646" y="506" name="inst_C22E4646" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="PlayerSlotLobby" x="646" y="556" name="inst_60F49AC2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="BackMenuButton" x="420" y="590" name="inst_FB4E11A0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="PlayerSlotLobby" x="398" y="556" name="inst_415D9C81" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="PlayerSlotLobby" x="398" y="506" name="inst_A4C5E36E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="PlayerSlotLobby" x="398" y="456" name="inst_5F9FF6E3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="PlayerSlotLobby" x="398" y="406" name="inst_0255127A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="PlayerSlotLobby" x="398" y="356" name="inst_893A2547" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="PlayerSlotLobby" x="398" y="306" name="inst_7754B8E1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="PlayerSlotLobby" x="398" y="256" name="inst_83739314" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="PlayerSlotLobby" x="398" y="206" name="inst_777701DC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="PlayerNumberBoxHeader" x="416" y="128" name="inst_98E8B82F" locked="0" code="" scaleX="1.00999999046326" scaleY="1.20833337306976" colour="4294967295" rotation="0"/>
+    <instance objName="Panel" x="152" y="100" name="inst_6FE56555" locked="0" code="" scaleX="1.20333337783813" scaleY="1.9466667175293" colour="3372220415" rotation="0"/>
     <instance objName="GameLogo" x="400" y="48" name="inst_566BC10C" locked="0" code="" scaleX="0.800000011920929" scaleY="0.800000011920929" colour="4294967295" rotation="0"/>
-    <instance objName="CreateServerButton" x="168" y="440" name="inst_FFAA35AB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="JoinServerButton" x="168" y="528" name="inst_3F84F65D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="BackMenuButton" x="168" y="616" name="inst_7017398E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Panel" x="120" y="400" name="inst_6FE56555" locked="0" code="" scaleX="0.490000009536743" scaleY="1.04999995231628" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
